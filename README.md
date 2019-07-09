@@ -19,7 +19,16 @@
 * Usamos o . para concatenar e não o +
 * ´´ diferente de ""
 * || ou or e and ou &&
-* 
+
+## Tomando decisões
+* else if | elseif
+
+## Repetindo ações
+* while, for, break;
+
+## Desafios
+
+
 
 
 
