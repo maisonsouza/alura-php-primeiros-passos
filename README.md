@@ -9,6 +9,9 @@
   * Vantagens de ser uma linguagem interpretada:
     * Produtividade
 * Linguagem de propósito geral (IOT, **Web**, Desktop, Servidores, Linha de comando)
+* Adicionar o php a variável de ambiente do Windows.
+* Arquivo php.ini ficam as configurações.
+* echo "Mensagem" para exibir algo na tela.
 * php -a (Shell interativo)
 * Código php inicia com <?php
 * Linguagem dinamicamente tipada.
