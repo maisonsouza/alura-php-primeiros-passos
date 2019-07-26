@@ -17,9 +17,15 @@
 * Linguagem dinamicamente tipada.
 
 ## Variáveis e tipos
-* $nome_variavel.
+* $nome_variavel para declarar.
+* $nome_variavel = 21 pra atribuir.
 * imprimir a variável com echo $nome_variavel
 * Operações matemáticas (+,-,*,/,**,%)
+* gettype para descubri o tipo da variável.
+* Tipos inteiro,double,float,boolean,string são os tipos primitivos.
+* Não usamos , e sim ponto para representar as casas decimais.
+* Linguagem dinamicamente tipada não precisamos informar o tipo na declaraçao.
+
 
 ## Trabalhando com texto
 * Usamos o . para concatenar e não o +
