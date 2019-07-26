@@ -45,7 +45,8 @@
 * Sempre opte por colocar chaves.
 
 ## Repetindo ações
-* while para quando não sei o fim
+* while para quando não sei o fim.
+* do-while executa pelo menos uma vez.
 * for para quando conheco o limite.
 * break para quebrar o loop;
 * continue para ir pra proxima iteração.
