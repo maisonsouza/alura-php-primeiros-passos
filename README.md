@@ -39,6 +39,10 @@
 
 ## Tomando decisões
 * else if | elseif
+* || ou or
+* && e and
+* blocos com apenas uma linha não precisam de chaves.
+* Sempre opte por colocar chaves.
 
 ## Repetindo ações
 * while, for, break;
