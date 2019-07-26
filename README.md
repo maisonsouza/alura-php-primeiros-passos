@@ -30,7 +30,12 @@
 ## Trabalhando com texto
 * Usamos o . para concatenar e não o +
 * ´´ diferente de ""
+* "" Permite embutir variáveis na saída.
 * || ou or e and ou &&
+* / para escapar formatação
+* /\n para quebra de linha.
+* PHP_EOL para pular linha em qualquer sistema operacional.
+* \t para TAB
 
 ## Tomando decisões
 * else if | elseif
