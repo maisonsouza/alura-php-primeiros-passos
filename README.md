@@ -45,7 +45,11 @@
 * Sempre opte por colocar chaves.
 
 ## Repetindo ações
-* while, for, break;
+* while para quando não sei o fim
+* for para quando conheco o limite.
+* break para quebrar o loop;
+* continue para ir pra proxima iteração.
+* Evitar break e continue.
 
 ## Desafios
 
