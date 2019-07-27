@@ -54,6 +54,9 @@
 
 ## Desafios
 
+# [Certificado](https://cursos.alura.com.br/certificate/maisongalvao/php-primeiros-passos)
+# [Certificado Formal](https://cursos.alura.com.br/user/maisongalvao/course/php-primeiros-passos/formalCertificate)
+
 
 
 
